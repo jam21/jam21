@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django/Python, Android and ROR Development
 - 🌱 I’m currently learning Regular Expressions in Python
 - 💞️ I’m looking to collaborate on Djnago/Python projects, specially where I can Use Regular Expressions
-- 📫 How to reach me ...
+- 📫 How to reach me at jam.m.husain@gmail.com
 
 <!---
 jam21/jam21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
